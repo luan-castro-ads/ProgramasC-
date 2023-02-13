@@ -1,0 +1,15 @@
+C:\Users\luanp\Documents\Work Space\Programas-C-\obj\Debug\net7.0\Programas-C-.csproj.AssemblyReference.cache
+C:\Users\luanp\Documents\Work Space\Programas-C-\obj\Debug\net7.0\Programas-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanp\Documents\Work Space\Programas-C-\obj\Debug\net7.0\Programas-C-.AssemblyInfoInputs.cache
+C:\Users\luanp\Documents\Work Space\Programas-C-\obj\Debug\net7.0\Programas-C-.AssemblyInfo.cs
+C:\Users\luanp\Documents\Work Space\Programas-C-\obj\Debug\net7.0\Programas-C-.csproj.CoreCompileInputs.cache
+C:\Users\luanp\Documents\Work Space\Programas-C-\bin\Debug\net7.0\Programas-C-.exe
+C:\Users\luanp\Documents\Work Space\Programas-C-\bin\Debug\net7.0\Programas-C-.deps.json
+C:\Users\luanp\Documents\Work Space\Programas-C-\bin\Debug\net7.0\Programas-C-.runtimeconfig.json
+C:\Users\luanp\Documents\Work Space\Programas-C-\bin\Debug\net7.0\Programas-C-.dll
+C:\Users\luanp\Documents\Work Space\Programas-C-\bin\Debug\net7.0\Programas-C-.pdb
+C:\Users\luanp\Documents\Work Space\Programas-C-\obj\Debug\net7.0\Programas-C-.dll
+C:\Users\luanp\Documents\Work Space\Programas-C-\obj\Debug\net7.0\refint\Programas-C-.dll
+C:\Users\luanp\Documents\Work Space\Programas-C-\obj\Debug\net7.0\Programas-C-.pdb
+C:\Users\luanp\Documents\Work Space\Programas-C-\obj\Debug\net7.0\Programas-C-.genruntimeconfig.cache
+C:\Users\luanp\Documents\Work Space\Programas-C-\obj\Debug\net7.0\ref\Programas-C-.dll
