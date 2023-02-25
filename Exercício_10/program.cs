@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-/*Escreva um programa para efetuar as quatro operações
+﻿/*Escreva um programa para efetuar as quatro operações
 matemáticas básicas (adição, subtração, produto e divisão)
 sobre dois valores informados*/
 
