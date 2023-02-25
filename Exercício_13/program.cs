@@ -20,6 +20,7 @@ numero3 = Convert.ToDouble(Console.ReadLine());
 
 medianumeros = (numero1 + numero2 + numero3) / 3;
 
+
 mediaaritmetica(numero1, numero2, numero3, medianumeros);
 
 Console.ReadKey();
