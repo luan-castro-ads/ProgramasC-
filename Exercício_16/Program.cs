@@ -35,5 +35,3 @@ valor2 = Convert.ToDouble(Console.ReadLine());
 
 operações(valor1,valor2);
 Console.ReadKey();
-
-
